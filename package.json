@@ -1,0 +1,12 @@
+{
+  "name": "DiscordBot",
+  "version": "0.1.0",
+  "description": "Projet Discord Bot ",
+  "main": "main.js",
+  "repository": "https://github.com/khalyloudine/botdiscordjs.git",
+  "author": "KhalyloudineAkbar <papaxaalybaal@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
